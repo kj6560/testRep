@@ -6,11 +6,7 @@ import joblib
 
 # Load the Iris dataset
 iris = load_iris()
-X = X = [
-    [5.1, 3.5, 1.4, 0.2],  # Sample 1
-    [4.9, 3.0, 1.4, 0.2],  # Sample 2
-    [5.9, 3.0, 5.1, 1.8],  # Sample 150
-]
+X = iris.data
 y = iris.target
 
 # Split the data into training and testing sets
