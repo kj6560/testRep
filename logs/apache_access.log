@@ -1,0 +1,3 @@
+103.77.43.153 - - [05/Feb/2025:17:24:49 +0000] "GET / HTTP/1.1" 404 3797 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
+103.77.43.153 - - [05/Feb/2025:17:24:49 +0000] "GET /favicon.ico HTTP/1.1" 404 516 "https://nud.shiwkesh.in/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
+103.77.43.153 - - [05/Feb/2025:17:28:20 +0000] "GET /admin HTTP/1.1" 404 840 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
