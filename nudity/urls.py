@@ -19,6 +19,6 @@ from nudity.views import home,predict,predict_video
 urlpatterns = [
     path('', home, name='home'),
     path('predict', predict, name='predict'),
-    path('predictVideo', predict_video, name='predictVideo'),
+    #path('predictVideo', predict_video, name='predictVideo'),
     path('admin/', admin.site.urls),
 ]
